@@ -2,4 +2,4 @@
 
 - Programación Orientada a Objetos en Java
 - Testeo en JUnit 5
-- Interfaces Gráficas con JSwing
+
